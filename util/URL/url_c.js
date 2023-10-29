@@ -1,0 +1,1 @@
+export const URL_coments ='https://jsonplaceholder.typicode.com/comments?postId'
